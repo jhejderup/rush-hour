@@ -1,5 +1,5 @@
 # rush-hour
-A Python implementation of the board game Rush Hour(tm)
+A Python implementation of the board game Rush Hour(tm) with A* Algorithm Solver
 
 ## Running the game
 inside the cloned folder
